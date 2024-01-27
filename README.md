@@ -1,5 +1,5 @@
 # Hi there 👋! I'm Michael Lunzitisa:
-
+### A full stack developer based in Democratic Republic of Congo 
 <!--
 **michael-lunzitisa/michael-lunzitisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
